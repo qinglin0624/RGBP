@@ -13,5 +13,3 @@ This repository contains the code for our paper "**Cross-modal Assisted Training
 <img src="/imgs/experiments.png" align = left>
 
 
-
-## Usage
