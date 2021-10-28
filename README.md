@@ -1,7 +1,7 @@
 # RGBP
 This repository contains the code for our paper
 
-<img src="/imgs/title.png" width=500 align = center>
+<img src="/imgs/title.png" align = center>
 
 
 
