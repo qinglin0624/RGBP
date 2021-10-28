@@ -1,5 +1,8 @@
 # RGBP
-This repository contains the code for our paper "**Cross-modal Assisted Training for Abnormal Event Recognition in Elevators**" which is accepted by ICMI 2021.
+This repository contains the code for our paper
+
+<img src="/imgs/title.png" align = center>
+
 
 
 ## Method
